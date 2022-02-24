@@ -2,7 +2,8 @@
 - 👀 I’m interested in Code...
 - 🌱 I’m currently Py Panda's & Use in Data Analytics ...
 - 💞️ I’m looking to becoming an Data Analytic ...
-- 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/tarang-upadhyay/){:target="_blank"}
+- 📫 How to reach me <a href="https://www.linkedin.com/in/tarang-upadhyay/)" target="_blank">LinkedIn!</a>
+
 
 <!---
 TarangUpadhyay/TarangUpadhyay is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
